@@ -33,12 +33,12 @@
   <!-- First Row -->
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/threat-monitor" target="_blank">threat-monitor</a></h3>
+      <h3><a href="https://github.com/RDaniil1/threat-monitor" target="_blank">threat-monitor</a></h3>
       <p>Threat monitoring system based on ARIMA and MLP statistical modeling.</p>
       <p><sub>C++ · CMake</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mock-topology" target="_blank">mock-topology</a></h3>
+      <h3><a href="https://github.com/RDaniil1/mock-topology" target="_blank">mock-topology</a></h3>
       <p>Network devices configuration engine simulating enterprise topologies with secure ACLs and NAT.</p>
       <p><sub>Ansible · Network Automation</sub></p>
     </td>
@@ -47,12 +47,12 @@
   <!-- Second Row -->
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/command-expression" target="_blank">command-expression</a></h3>
+      <h3><a href="https://github.com/RDaniil1/command-expression" target="_blank">command-expression</a></h3>
       <p>Simple application designed to create and calculate an expression based on commands.</p>
       <p><sub>Python · OOP Design</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/cross-http" target="_blank">cross-http</a></h3>
+      <h3><a href="https://github.com/RDaniil1/cross-http" target="_blank">cross-http</a></h3>
       <p>Lightweight, cross-platform HTTP server built purely in C from scratch.</p>
       <p><sub>C · Network Programming</sub></p>
     </td>
