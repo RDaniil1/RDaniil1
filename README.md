@@ -69,6 +69,8 @@
 </p>
 
 <div align="center" style="width:100%; max-width:100%;">
-  <h2>Let’s connect on the next build</h2>
+  <h2>Let’s 
+    <a href="https://t.me/drd1122" target="_blank">connect</a>
+    on the next build</h2>
   <p>Open to innovative engineering teams, complex backend systems, and impactful product challenges.</p>
 </div>
